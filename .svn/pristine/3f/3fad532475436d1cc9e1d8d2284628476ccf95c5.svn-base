@@ -1,0 +1,1 @@
+package com.yunat.maven.plugin.plugins;public enum OSSerialType {	Mac,	Windows}
